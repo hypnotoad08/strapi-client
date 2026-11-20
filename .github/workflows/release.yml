@@ -26,7 +26,7 @@ jobs:
       package_version: ${{ steps.package_version.outputs.package_version }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
