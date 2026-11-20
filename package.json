@@ -86,7 +86,7 @@
     "flatted": "3.4.4",
     "husky": "9.1.7",
     "lint-staged": "17.3.0",
-    "picomatch": "4.0.5",
+    "picomatch": "4.0.7",
     "postcss": "^8.5.10",
     "prettier": "3.9.10",
     "rimraf": "6.1.3",
