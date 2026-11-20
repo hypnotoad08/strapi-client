@@ -88,7 +88,7 @@
     "lint-staged": "17.3.0",
     "picomatch": "4.0.7",
     "postcss": "^8.5.10",
-    "prettier": "3.9.10",
+    "prettier": "3.10.1",
     "rimraf": "6.1.4",
     "rollup": "4.68.4",
     "typescript": "5.9.3",
